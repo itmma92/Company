@@ -1,6 +1,6 @@
 ## Учебный проект по созданию программы для создания отчетов по компании
 
-#### Используется: pythhon, IDE: pycharm, framework:Django 
+#### Используется: python, IDE: pycharm, framework:Django 
 ______
 **Руководитель проекта:**
 *https://github.com/zagoruykov*
